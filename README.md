@@ -11,7 +11,7 @@ Trabalho na **Konsist - Consultoria Empresarial**
 Entre em contato comigo!
 Minhas Redes:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-rodrigues/)](https://www.linkedin.com/in/lucas-santana-rodrigues/)
+[![Linkedin Badge](https://img.shields.io/badge/-LucasSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-rodrigues/)](https://www.linkedin.com/in/lucas-santana-rodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-lucassice@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassice@gmail.com)](mailto:lucassice@gmail.com)
 
 
