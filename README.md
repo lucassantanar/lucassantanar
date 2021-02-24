@@ -18,7 +18,7 @@ Minhas Redes:
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantanar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantanar&show_icons=true&theme=radical)](https://github.com/lucassantanar?tab=repositories)
 
 
 <!--
