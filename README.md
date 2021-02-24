@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/lucassantanar/lucassantanar/blob/main/NLW04_pack_divulgacao_-_Github.png">
+
 ### Olá 👋
 
 Eu sou o Lucas Santana! Atuo na área e TI e a programação é uma das minhas atividades. :computer: :rocket:
