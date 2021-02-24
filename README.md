@@ -2,7 +2,7 @@
 
 ### Olá 👋
 
-Eu sou o Lucas Santana! Atuo na área e TI e a programação é uma das minhas atividades. :computer: :rocket:
+Eu sou o Lucas Santana! Atuo na área de TI e a programação é uma das minhas atividades. :computer: :rocket:
 <br/>
 Trabalho na **Konsist - Consultoria Empresarial**
 
