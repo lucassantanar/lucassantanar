@@ -1,6 +1,7 @@
 ### Olá 👋
 
 Eu sou o Lucas Santana! Atuo na área e TI e a programação é uma das minhas atividades. :computer: :rocket:
+<br/>
 Trabalho na **Konsist - Consultoria Empresarial**
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack
