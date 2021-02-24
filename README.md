@@ -8,7 +8,7 @@ Trabalho na **Konsist - Consultoria Empresarial**
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS e Grid Layout e Flexbox
- <br/> :computer: &nbsp; Atualmente estou ampliando meus conhecimentos na Stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Atualmente estou desenvolvendo meus conhecimentos na Stack: ReactJS, Node.js, React Native & Typescript
 
 Entre em contato comigo!
 Minhas Redes:
