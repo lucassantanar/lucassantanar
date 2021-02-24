@@ -6,15 +6,13 @@ Trabalho na **Konsist - Consultoria Empresarial**
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS e Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack atual: ReactJS, Node.js, React Native & Typescript
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-rodrigues/)](https://www.linkedin.com/in/lucas-santana-rodrigues/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassice@gmail.com)](mailto:lucassice@gmail.com)
+ <br/> :computer: &nbsp; Atualmente estou ampliando meus conhecimentos na Stack: ReactJS, Node.js, React Native & Typescript
 
-
+Entre em contato comigo!
 Minhas Redes:
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-rodrigues/)](https://www.linkedin.com/in/lucas-santana-rodrigues/)
+[![Gmail Badge](https://img.shields.io/badge/-lucassice@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassice@gmail.com)](mailto:lucassice@gmail.com)
 
 
 <!--
