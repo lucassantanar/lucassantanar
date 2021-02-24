@@ -15,6 +15,7 @@ Minhas Redes:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LucasSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-santana-rodrigues/)](https://www.linkedin.com/in/lucas-santana-rodrigues/)
 [![Gmail Badge](https://img.shields.io/badge/-lucassice@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassice@gmail.com)](mailto:lucassice@gmail.com)
+[![Github Badge](https://img.shields.io/badge/lucassantanar-purple?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucassantanar/)](https://github.com/lucassantanar/)
 
 
 <!--
