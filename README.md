@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/lucassantanar/lucassantanar/blob/main/NLW04_pack_divulgacao_-_Github.png">
+
 
 ### Olá 👋
 
